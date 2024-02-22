@@ -121,7 +121,6 @@ npm install react-native-screens react-native-safe-area-context
 npm install @react-navigation/native-stack
 ```
 
- ![AppIcon](https://github.com/chanceAhmedRagabsystem/Teacher-Control-System/assets/73564867/61ce89e7-3876-42aa-956f-b18323273f07)![WhatsApp Image 2024-02-23 at 12 24 28 AM](https://github.com/chanceAhmedRagabsystem/Teacher-Control-System/assets/73564867/46493238-5b67-4b9b-a611-f037b4fa520e)
-![WhatsApp Image 2024-02-23 at 12 24 28 AM (1)](https://github.com/chanceAhmedRagabsystem/Teacher-Control-System/assets/73564867/4e09e85c-ef90-48b0-b145-6101fb582fdf)
+
 
 
