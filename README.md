@@ -6,13 +6,6 @@
   
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
-
-*   Sign-up using (name phone number and email )
-*   Log-in using ( email and password ).
-*   reset their password if they forgot it.
-*   Modify profile data of the students
-
 Here're some of the project's best features of the Teacher version:
 
 * add grades.
