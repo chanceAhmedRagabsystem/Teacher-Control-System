@@ -19,17 +19,6 @@ Here're some of the project's best features of the Teacher version:
 * add groups.
 * check the absence and expenses of each student and can modify it.
 * interact with parents.
- 
-Here're some of the project's best features of the student version:
-
-*   Registering the absence of the student by scanning the code provided by the teacher if he is inside the place of explanation and in the period specified for the lesson.
-*   show him the absence and expenses.
-
-Here're some of the project's best features of the parent version:
-
-*   show him the absence and expenses of their childern.
-
- 
   
 <h2>💻 Built with</h2>
 
