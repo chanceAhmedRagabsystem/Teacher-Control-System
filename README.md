@@ -1,79 +1,124 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+<h1 align="center" id="title">Teacher control system</h1>
 
-# Getting Started
+<p id="description">control system for teachers allow them to control the absence and expenses of students and other services inform parents all details about their children and show each student his details.</p>
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+  
+  
+<h2>🧐 Features</h2>
 
-## Step 1: Start the Metro Server
+Here're some of the project's best features:
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+*   Sign-up using (name phone number and email )
+*   Log-in using ( email and password ).
+*   reset their password if they forgot it.
+*   Modify profile data of the students
 
-To start Metro, run the following command from the _root_ of your React Native project:
+Here're some of the project's best features of the Teacher version:
 
-```bash
-# using npm
-npm start
+* add grades.
+* add groups.
+* check the absence and expenses of each student and can modify it.
+* interact with parents.
+ 
+Here're some of the project's best features of the student version:
 
-# OR using Yarn
-yarn start
+*   Registering the absence of the student by scanning the code provided by the teacher if he is inside the place of explanation and in the period specified for the lesson.
+*   show him the absence and expenses.
+
+Here're some of the project's best features of the parent version:
+
+*   show him the absence and expenses of their childern.
+
+ 
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React Native
+*   javascript
+*   php
+*   MySql
+
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. vector icons</p>
+
+```
+npm install react-native-vector-icons
 ```
 
-## Step 2: Start your Application
+<p>2. geolocation service</p>
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
+```
+npm install react-native-geolocation-service
 ```
 
-### For iOS
+<p>3. redux</p>
 
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
+```
+npm install react-redux
 ```
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+<p>4. dropdown select</p>
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+```
+npm install react-native-select-dropdown
+```
 
-## Step 3: Modifying your App
+<p>5. for Qr scan</p>
 
-Now that you have successfully run the app, let's modify it.
+```
+npm install react-native-qrcode-scanner
+```
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
+<p>6. AsyncStorage: An asynchronous unencrypted persistent key-value storage system for React Native</p>
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
+```
+npm install @react-native-async-storage/async-storage
+```
 
-## Congratulations! :tada:
+<p>7. Textinput Effects</p>
 
-You've successfully run and modified your React Native App. :partying_face:
+```
+npm install react-native-textinput-effects
+```
 
-### Now what?
+<p>8. switch selector</p>
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
+```
+npm install react-native-switch-selector
+```
 
-# Troubleshooting
+<p>9. camera</p>
 
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+```
+npm install react-native-camera
+```
 
-# Learn More
+<p>10. axios</p>
 
-To learn more about React Native, take a look at the following resources:
+```
+npm install axios
+```
 
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+<p>11. React navigation package :</p>
+
+```
+npm install @react-navigation/native
+```
+
+<p>12. Installing dependencies into a bare React Native project:</p>
+
+```
+npm install react-native-screens react-native-safe-area-context
+```
+
+<p>13. Native Stack Navigator: provides a way for your app to transition between screens where each new screen is placed on top of a stack.</p>
+
+```
+npm install @react-navigation/native-stack
+```
+
+ 
